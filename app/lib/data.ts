@@ -1,4 +1,5 @@
-import { sql } from '@vercel/postgres';
+import {sql} from "@vercel/postgres"
+// import { createPool } from "@vercel/postgres/dist/index.js";
 import {
   CustomerField,
   CustomersTableType,
